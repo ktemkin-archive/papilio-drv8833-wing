@@ -1,0 +1,13 @@
+Per Kit Qty,Total Qty,Description,Supplier,Supplier P/N,Unit Price at Qty,Extended Price,Notes
+1.45,159.5,"Pin Header, Breakaway, Male",Jameco,2012-254-1X22SG, $0.29 , $0.42 ,
+8,880,"470R, 1/4W resistor",DigiKey,CF14JT470RCT-ND, $0.01 , $0.10 ,"These are very flexible; you can scale up and down, here; just keep 49/R well below 0.25W, where 49 is the square of the motor voltage."
+4,440,"220R, 1/4W resistor",DigiKey,CF14JT220RCT-ND, $0.02 , $0.06 ,""""""
+1,110,"Terminal Block, main power",DigiKey,609-4537-ND, $0.63 , $0.63 ,
+2,220,"Connector, Motor",DigiKey,A104903-ND, $0.29 , $0.57 ,
+2,220,Decoupling Capacitor,DigiKey,UVP1C100MDD-ND, $0.01 , $0.02 ,
+5,550,"Female Socket, 8-pin, 100 mil",Jameco,7400-1X8SG-R, $0.35 , $1.75 ,
+1,110,Printed Circuit Board,,-, $-   , $-   ,
+,,,,,,,
+,,,,,Total Cost, $3.55 ,
+,,,,,,,
+,,,,,Number of Kits,110,

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="../../../../../Documents/Projects/Hardware/papilio_drv8833_wing/TestVHDL/SwitchLED/SwitchLED.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="../../../../../Documents/Projects/Hardware/papilio_drv8833_wing/TestVHDL/SwitchLED/_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="../../../../../Documents/Projects/Hardware/papilio_drv8833_wing/TestVHDL/SwitchLED/toplevel.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="../../../../../Documents/Projects/Hardware/papilio_drv8833_wing/TestVHDL/SwitchLED/toplevel.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="../../../../../Documents/Projects/Hardware/papilio_drv8833_wing/TestVHDL/SwitchLED/toplevel.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="../../../../../Documents/Projects/Hardware/papilio_drv8833_wing/TestVHDL/SwitchLED/toplevel.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="../../../../../Documents/Projects/Hardware/papilio_drv8833_wing/TestVHDL/SwitchLED/toplevel.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="../../../../../Documents/Projects/Hardware/papilio_drv8833_wing/TestVHDL/SwitchLED/toplevel_summary.html"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="../../../../../Documents/Projects/Hardware/papilio_drv8833_wing/TestVHDL/SwitchLED/toplevel_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="../../../../../Documents/Projects/Hardware/papilio_drv8833_wing/TestVHDL/SwitchLED/toplevel_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="../../../../../Documents/Projects/Hardware/papilio_drv8833_wing/TestVHDL/SwitchLED/webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="../../../../../Documents/Projects/Hardware/papilio_drv8833_wing/TestVHDL/SwitchLED/xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1409274610" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1409274610">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1409274610" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="1295370165447961146" xil_pn:start_ts="1409274610">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1409274610" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-846048091533503510" xil_pn:start_ts="1409274610">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1409274610" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1409274610">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1409274610" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-8732701474687834440" xil_pn:start_ts="1409274610">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1409274610" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="5199527252397519575" xil_pn:start_ts="1409274610">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1409274610" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-6290318593297177036" xil_pn:start_ts="1409274610">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1409274619" xil_pn:in_ck="6038244062278953691" xil_pn:name="TRANEXT_xstsynthesize_spartan3e" xil_pn:prop_ck="-2286881436709661135" xil_pn:start_ts="1409274610">
+      <status xil_pn:value="FailedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="../../../../../Documents/Projects/Hardware/papilio_drv8833_wing/TestVHDL/SwitchLED/_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="../../../../../Documents/Projects/Hardware/papilio_drv8833_wing/TestVHDL/SwitchLED/toplevel.lso"/>
+      <outfile xil_pn:name="../../../../../Documents/Projects/Hardware/papilio_drv8833_wing/TestVHDL/SwitchLED/toplevel.prj"/>
+      <outfile xil_pn:name="../../../../../Documents/Projects/Hardware/papilio_drv8833_wing/TestVHDL/SwitchLED/toplevel.syr"/>
+      <outfile xil_pn:name="../../../../../Documents/Projects/Hardware/papilio_drv8833_wing/TestVHDL/SwitchLED/toplevel.xst"/>
+      <outfile xil_pn:name="../../../../../Documents/Projects/Hardware/papilio_drv8833_wing/TestVHDL/SwitchLED/toplevel_vhdl.prj"/>
+      <outfile xil_pn:name="../../../../../Documents/Projects/Hardware/papilio_drv8833_wing/TestVHDL/SwitchLED/toplevel_xst.xrpt"/>
+      <outfile xil_pn:name="../../../../../Documents/Projects/Hardware/papilio_drv8833_wing/TestVHDL/SwitchLED/webtalk_pn.xml"/>
+      <outfile xil_pn:name="../../../../../Documents/Projects/Hardware/papilio_drv8833_wing/TestVHDL/SwitchLED/xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1409274619" xil_pn:in_ck="176200896759541338" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="-5047652341673475229" xil_pn:start_ts="1409274619">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+  </transforms>
+
+</generated_project>

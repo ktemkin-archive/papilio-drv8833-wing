@@ -1,0 +1,192 @@
+Cmp-Mod V01 Created by Cvpcb (2014-08-15 BZR 5075)-product   date = Sat 16 Aug 2014 07:30:16 PM EDT
+
+BeginCmp
+TimeStamp = /53CABC0C;
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_ThroughHole:Capacitor5x11RM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53CACD86;
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_ThroughHole:Capacitor5x11RM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C91784;
+Reference = P1;
+ValeurCmp = CONN_8;
+IdModule  = Connect:SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C9F358;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = DRV8833:terminal-block-D021B01LF;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EFC8F1;
+Reference = P3;
+ValeurCmp = CONN_1;
+IdModule  = Connect:SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C92816;
+Reference = P4;
+ValeurCmp = CONN_2;
+IdModule  = DRV8833:rover5-motor;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C929F5;
+Reference = P5;
+ValeurCmp = CONN_2;
+IdModule  = DRV8833:rover5-motor;
+EndCmp
+
+BeginCmp
+TimeStamp = /53CB04A1;
+Reference = P6;
+ValeurCmp = CONN_4;
+IdModule  = Connect:SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C96489;
+Reference = P7;
+ValeurCmp = CONN_8;
+IdModule  = Connect:SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C94C26;
+Reference = P8;
+ValeurCmp = CONN_4;
+IdModule  = Connect:SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C9B39F;
+Reference = P9;
+ValeurCmp = CONN_4;
+IdModule  = Connect:SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C918F7;
+Reference = P10;
+ValeurCmp = CONN_4;
+IdModule  = Connect:SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C97480;
+Reference = P11;
+ValeurCmp = CONN_8;
+IdModule  = Connect:SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C9A303;
+Reference = R1;
+ValeurCmp = 220;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C9A37A;
+Reference = R2;
+ValeurCmp = 220;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C9B3B6;
+Reference = R3;
+ValeurCmp = 220;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C9B3BC;
+Reference = R4;
+ValeurCmp = 220;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C967FC;
+Reference = R5;
+ValeurCmp = 470;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C96E89;
+Reference = R6;
+ValeurCmp = 470;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C96EF8;
+Reference = R7;
+ValeurCmp = 470;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C96EFF;
+Reference = R8;
+ValeurCmp = 470;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C9700E;
+Reference = R9;
+ValeurCmp = 470;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C97015;
+Reference = R10;
+ValeurCmp = 470;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C9701C;
+Reference = R11;
+ValeurCmp = 470;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C97023;
+Reference = R12;
+ValeurCmp = 470;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C91568;
+Reference = U1;
+ValeurCmp = DRV8833;
+IdModule  = DRV8833:DRV8833-carrier;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C93DEE;
+Reference = U2;
+ValeurCmp = DRV8833;
+IdModule  = DRV8833:DRV8833-carrier;
+EndCmp
+
+EndListe

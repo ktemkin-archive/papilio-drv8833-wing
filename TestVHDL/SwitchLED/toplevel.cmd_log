@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ktemkin/Documents/Projects/Hardware/papilio_drv8833_wing/TestVHDL/SwitchLED/toplevel.xst" -ofn "/home/ktemkin/Documents/Projects/Hardware/papilio_drv8833_wing/TestVHDL/SwitchLED/toplevel.syr" 

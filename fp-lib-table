@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name DRV8833)(type KiCad)(uri /home/ktemkin/Projects/Hardware/papilio_drv8833_wing.pretty)(options "")(descr ""))
+)
